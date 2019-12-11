@@ -1,0 +1,16 @@
+app-bar-chart .bar {
+  fill: steelblue;
+}
+
+app-bar-chart .bar:hover {
+  fill: brown;
+}
+
+app-bar-chart .axis--x path {
+  display: none;
+}
+
+app-bar-chart #chart {
+  height: inherit;
+  width: inherit;
+}
