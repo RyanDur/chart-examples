@@ -1,0 +1,48 @@
+
+#chart-container {
+  height: 692px;
+  width: 944px;
+  border-radius: 4px;
+  background-color: #FFFFFF;
+  box-shadow: 0 0 8px 0 rgba(0, 0, 0, 0.12), 0 8px 8px 0 rgba(0, 0, 0, 0.1);
+  margin: 5rem auto ;
+  padding: 1rem;
+  box-sizing: border-box;
+}
+#chart-stack{
+  height: 15rem;
+}
+#label-row{
+  margin-top: 1rem;
+  display: flex;
+  width: 100%;
+  border-top: 1px solid gray;
+}
+
+.icon-padding{
+  width: 12px;
+}
+
+#icon-row{
+  display: flex;
+  width: 100%;
+  margin-top: 5px;
+}
+
+.day-label{
+  flex-grow: 1;
+  text-align: center;
+  height: 90px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.icon-label{
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+}
+.week-nav {
+  width: 50px;
+}

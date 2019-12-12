@@ -1,0 +1,149 @@
+[
+  {
+    "day": "Monday",
+    "nightShift": {
+      "APG": 6,
+      "COMNAV": 3,
+      "ELEN": 0,
+      "HYDRO": 1,
+      "IFCS": 0,
+      "JETS": 2,
+      "LEAVE": 2
+    },
+    "dayShift": {
+      "APG": 6,
+      "COMNAV": 2,
+      "ELEN": 2,
+      "HYDRO": 4,
+      "IFCS": 4,
+      "JETS": 6,
+      "LEAVE": 4
+    }
+  },
+  {
+    "day": "Tuesday",
+    "nightShift": {
+      "APG": 6,
+      "COMNAV": 3,
+      "ELEN": 0,
+      "HYDRO": 1,
+      "IFCS": 0,
+      "JETS": 2,
+      "LEAVE": 2
+    },
+    "dayShift": {
+      "APG": 6,
+      "COMNAV": 2,
+      "ELEN": 2,
+      "HYDRO": 4,
+      "IFCS": 4,
+      "JETS": 6,
+      "LEAVE": 4
+    }
+  },
+  {
+    "day": "Wednesday",
+    "nightShift": {
+      "APG": 6,
+      "COMNAV": 3,
+      "ELEN": 0,
+      "HYDRO": 1,
+      "IFCS": 0,
+      "JETS": 2,
+      "LEAVE": 2
+    },
+    "dayShift": {
+      "APG": 6,
+      "COMNAV": 2,
+      "ELEN": 2,
+      "HYDRO": 4,
+      "IFCS": 4,
+      "JETS": 6,
+      "LEAVE": 4
+    }
+  },
+  {
+    "day": "Thursday",
+    "nightShift": {
+      "APG": 6,
+      "COMNAV": 3,
+      "ELEN": 0,
+      "HYDRO": 1,
+      "IFCS": 0,
+      "JETS": 2,
+      "LEAVE": 2
+    },
+    "dayShift": {
+      "APG": 6,
+      "COMNAV": 2,
+      "ELEN": 2,
+      "HYDRO": 4,
+      "IFCS": 4,
+      "JETS": 6,
+      "LEAVE": 4
+    }
+  },
+  {
+    "day": "Friday",
+    "nightShift": {
+      "APG": 6,
+      "COMNAV": 3,
+      "ELEN": 0,
+      "HYDRO": 1,
+      "IFCS": 0,
+      "JETS": 2,
+      "LEAVE": 2
+    },
+    "dayShift": {
+      "APG": 6,
+      "COMNAV": 2,
+      "ELEN": 15,
+      "HYDRO": 8,
+      "IFCS": 4,
+      "JETS": 6,
+      "LEAVE": 4
+    }
+  },
+  {
+    "day": "Saturday",
+    "nightShift": {
+      "APG": 6,
+      "COMNAV": 3,
+      "ELEN": 0,
+      "HYDRO": 1,
+      "IFCS": 0,
+      "JETS": 2,
+      "LEAVE": 2
+    },
+    "dayShift": {
+      "APG": 6,
+      "COMNAV": 2,
+      "ELEN": 2,
+      "HYDRO": 4,
+      "IFCS": 4,
+      "JETS": 6,
+      "LEAVE": 4
+    }
+  },
+  {
+    "day": "Sunday",
+    "nightShift": {
+      "APG": 6,
+      "COMNAV": 3,
+      "ELEN": 0,
+      "HYDRO": 1,
+      "IFCS": 0,
+      "JETS": 2,
+      "LEAVE": 2
+    },
+    "dayShift": {
+      "APG": 6,
+      "COMNAV": 2,
+      "ELEN": 2,
+      "HYDRO": 4,
+      "IFCS": 4,
+      "JETS": 6,
+      "LEAVE": 4
+    }
+  }
+]

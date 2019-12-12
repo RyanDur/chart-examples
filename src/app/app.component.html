@@ -1,5 +1,7 @@
-<h1>Bar Charts</h1>
-<h2>D3 Vertical Bar Chart</h2>
-<app-bar-chart [data]="data$ | async"></app-bar-chart>
-<h2>ngx-charts Vertical Bar Chart</h2>
-<app-ngx-bar-chart [results]="data$ | async"></app-ngx-bar-chart>
+
+<app-bar-chart-stack [data]="d3StackData$ | async"></app-bar-chart-stack>
+<!--<app-bar-chart [data]="singleData$ | async"></app-bar-chart>-->
+<!--<h2>ngx-charts Vertical Bar Chart</h2>-->
+<!--<app-ngx-bar-chart [results]="singleData$ | async"></app-ngx-bar-chart>-->
+<!--<h2>ngx-charts Vertical Stacked Bar Chart</h2>-->
+<!--<app-ngx-stacked-bar [results]="multiData$ | async"></app-ngx-stacked-bar>-->

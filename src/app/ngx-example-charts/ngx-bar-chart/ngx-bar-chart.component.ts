@@ -10,7 +10,6 @@ export class NgxBarChartComponent {
 
   @Input()
   set results(results: DataModel[]) {
-    console.log(results);
     if (!!results) {
       this._results = [...results];
       this._xAxisTicks = results.map(it => it.name);

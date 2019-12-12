@@ -31,7 +31,7 @@ export class BarChartComponent implements OnChanges {
   }
 
   private _createChart() {
-    d3.select('svg').remove();
+    d3.select('#chart svg').remove();
 
     const element = this._chartContainer.nativeElement;
     const data = this.data;

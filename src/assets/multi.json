@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Sunday",
+    "shift": "Day Shift",
+    "series": [
+      {
+        "name": "Available",
+        "value": 1
+      },
+      {
+        "name": "Unavailable",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "name": "Monday",
+    "shift": "Day Shift",
+    "series": [
+      {
+        "name": "Available",
+        "value": 2
+      },
+      {
+        "name": "Unavailable",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "name": "Tuesday",
+    "shift": "Day Shift",
+    "series": [
+      {
+        "name": "Available",
+        "value": 3
+      },
+      {
+        "name": "Unavailable",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "name": "Wednesday",
+    "shift": "Day Shift",
+    "series": [
+      {
+        "name": "Available",
+        "value": 4
+      },
+      {
+        "name": "Unavailable",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "name": "Thursday",
+    "shift": "Day Shift",
+    "series": [
+      {
+        "name": "Available",
+        "value": 5
+      },
+      {
+        "name": "Unavailable",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "name": "Friday",
+    "shift": "Day Shift",
+    "series": [
+      {
+        "name": "Available",
+        "value": 6
+      },
+      {
+        "name": "Unavailable",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Saturday",
+    "shift": "Day Shift",
+    "series": [
+      {
+        "name": "Available",
+        "value": 7
+      },
+      {
+        "name": "Unavailable",
+        "value": 0
+      }
+    ]
+  },
+  {
+    "name": "Sunday",
+    "shift": "Night Shift",
+    "series": [
+      {
+        "name": "Available",
+        "value": 1
+      },
+      {
+        "name": "Unavailable",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "name": "Monday",
+    "shift": "Night Shift",
+    "series": [
+      {
+        "name": "Available",
+        "value": 2
+      },
+      {
+        "name": "Unavailable",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "name": "Tuesday",
+    "shift": "Night Shift",
+    "series": [
+      {
+        "name": "Available",
+        "value": 3
+      },
+      {
+        "name": "Unavailable",
+        "value": 4
+      }
+    ]
+  },
+  {
+    "name": "Wednesday",
+    "shift": "Night Shift",
+    "series": [
+      {
+        "name": "Available",
+        "value": 4
+      },
+      {
+        "name": "Unavailable",
+        "value": 3
+      }
+    ]
+  },
+  {
+    "name": "Thursday",
+    "shift": "Night Shift",
+    "series": [
+      {
+        "name": "Available",
+        "value": 5
+      },
+      {
+        "name": "Unavailable",
+        "value": 2
+      }
+    ]
+  },
+  {
+    "name": "Friday",
+    "shift": "Night Shift",
+    "series": [
+      {
+        "name": "Available",
+        "value": 6
+      },
+      {
+        "name": "Unavailable",
+        "value": 1
+      }
+    ]
+  },
+  {
+    "name": "Saturday",
+    "shift": "Night Shift",
+    "series": [
+      {
+        "name": "Available",
+        "value": 7
+      },
+      {
+        "name": "Unavailable",
+        "value": 0
+      }
+    ]
+  }
+]

@@ -1,7 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Component } from '@angular/core';
 import { Observable } from 'rxjs';
-import { DataModel } from './data/data.model';
+import { DataModel, DayModel, MultiDatModel } from './data/data.model';
 
 @Component({
   selector: 'app-root',
@@ -9,9 +9,14 @@ import { DataModel } from './data/data.model';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  data$: Observable<DataModel[]>;
+
+  singleData$: Observable<DataModel[]>;
+  multiData$: Observable<MultiDatModel[]>;
+  d3StackData$: Observable<DayModel[]>;
 
   constructor(private _http: HttpClient) {
-    this.data$ = this._http.get<DataModel[]>('assets/data.json');
+    this.singleData$ = this._http.get<DataModel[]>('assets/data.json');
+    this.multiData$ = this._http.get<MultiDatModel[]>('assets/multi.json');
+    this.d3StackData$ = this._http.get<DayModel[]>('assets/d3-stack.json');
   }
 }
